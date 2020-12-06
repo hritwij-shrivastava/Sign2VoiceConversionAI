@@ -1,0 +1,11 @@
+CMD =  pip install --user tensorflow==2.0.0   PYCHARM = tensorflow             PYTHON = import tensorflow as tf
+CMD =  pip install numpy		      PYCHARM = numpy                  PYTHON = import numpy as np
+CMD =  pip install gTTS                       PYCHARM = gTTS                   PYTHON = from gtts import gTTS
+CMD =  pip install pyspellchecker             PYCHARM = pyspellchecker         PYTHON = import pyspellchecker
+CMD =  pip install python-vlc                 PYCHARM = python-vlc             PYTHON = import vlc
+CMD =  pip install opencv-python              PYCHARM = opencv-python          PYTHON = import cv2
+CMD =  pip install Keras                      PYCHARM = keras                  PYTHON = from tensorflow.keras.models import load_model
+CMD =                                         PYCHARM = keras-preprocessing    PYTHON = from tensorflow.keras.preprocessing import image
+CMD =                                         PYCHARM =                        PYTHON = import time
+CMD =					      PYCHARM =			       PYTHON = import os
+CMD =					      PYCHARM =			       PYTHON = from threading import Thread

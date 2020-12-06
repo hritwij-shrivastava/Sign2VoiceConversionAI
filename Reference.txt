@@ -1,0 +1,15 @@
+https://pypi.org/project/gTTS/
+
+https://pypi.org/project/pyspellchecker/
+
+https://stackoverflow.com/questions/52769618/how-can-i-play-a-sound-while-other-lines-of-code-execute-simultaneously
+
+https://pypi.org/project/python-vlc/
+
+https://stackoverflow.com/questions/52769618/how-can-i-play-a-sound-while-other-lines-of-code-execute-simultaneously
+
+https://stackoverflow.com/questions/49854214/python-capture-image-after-countdown-ends-using-webcam
+
+https://theailearner.com/2019/03/18/set-camera-timer-using-opencv-python/
+
+https://pypi.org/project/opencv-python/
